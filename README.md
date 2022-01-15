@@ -6,6 +6,7 @@
 ## Shark Dataset and Model Google Drive Link ##
 
 ### https://drive.google.com/file/d/1ILdrrhAHZjntg25zXQIYZvu5ud8QtVFe/view?usp=sharing ###
+(Due to its size it can't be previewed, just click download instead)
 
 The zip file contains the following:
 
